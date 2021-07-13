@@ -1,5 +1,6 @@
 ---
 title: ''
+permalink: /edumky
 ---
 
 ## Інверсія
