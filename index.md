@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+---
+title-heading: ЄДУМКИ
+---
 
-You can use the [editor on GitHub](https://github.com/hodovani/edumky/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Інверсія
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Поглянте на проблему з іншої точки зору.
 
-### Markdown
+Інверсія корисна, коли вам потрібно розглянути проблему, яку ви вирішуєте, з іншого боку. Це може допомогти вам побачити іншу перспективу та уявити найгірші сценарії.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Як користуватися?
 
-```markdown
-Syntax highlighted code block
+Хорошим запитанням, щоб дізнатись, чи може вам допомогти інверсія, є: "Чи я думаю лише про ідеальні рішення чи сценарії?"
 
-# Header 1
-## Header 2
-### Header 3
+Потім ви можете перевернути своє думка про проблему чи рішення. Для цього виконайте такі дії:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hodovani/edumky/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Запитайте себе: яке буде найгірше рішення / рішення у цій ситуації?
+* Запитайте себе: чому це буде погано? Запишіть ці причини.
+* Спробуйте придумати гарне рішення / рішення, тепер, розглядаючи причини, які могли б прийняти неправильне рішення.
