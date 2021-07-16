@@ -44,3 +44,9 @@ title: ''
 
 ![hard-choice](https://user-images.githubusercontent.com/12833067/125675245-8d5034b0-d2d3-4d19-abb9-3a25e2e0ed80.png)
 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
